@@ -7,7 +7,7 @@ You will need a skillshare premium account to access premium content. This scrip
 
 <div align="center">
     <b>Join Me - </b>
-  <a href="https://dsc.gg/hackfams" target="_blank">
+  <a href="https://dsc.gg/synqonic" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@l1ackoder?sub_confirmation=1" target="_blank">
@@ -52,19 +52,6 @@ You will need a skillshare premium account to access premium content. This scrip
 npm -v</code></pre>
     </li>
 </ol>
-
-<hr>
-
-<h3>2️⃣ Install Required Packages</h3>
-<p>Double-click the <code>install_requirements.bat</code> file. This will automatically install all Node.js dependencies needed to run the script:</p>
-<ul>
-    <li><code>progress</code></li>
-    <li><code>chalk</code></li>
-    <li><code>follow-redirects</code></li>
-    <li><code>cloudflare-scraper</code></li>
-    <li><code>node-fetch@2</code></li>
-</ul>
-
 <hr>
 
 <h3>3️⃣ Find Required Cookies</h3>
@@ -96,13 +83,14 @@ npm -v</code></pre>
 
 <h3>5️⃣ Run the Script</h3>
 <ol>
-    <li>Double-click the <code>download.bat</code> file. You will be prompted to enter:
+    <li>Double-click the <code>hack it.bat</code> file. You will be prompted to enter:
         <ul>
             <li>Class ID</li>
             <li>PHPSESSID</li>
             <li>skillshare_user_</li>
         </ul>
     </li>
+    <p>Ths will automatically install all the requirements and promt you to the next mission.</p>
     <li>After entering these values, the script will display the <strong>course title</strong> and start downloading all videos with a visual progress bar.</li>
 </ol>
 <ul>
@@ -118,6 +106,7 @@ npm -v</code></pre>
     <li>Make sure your internet connection is stable.</li>
     <li>No subtitles are downloaded by default. You can configure this in <code>index.js</code> if desired.</li>
 </ul>
+<p>You can download the resource file without any account from skillshare course resources option. That's not included here.</p>
 
 ```markdown
 credit: This Script is modified from ReneR97's [repo}(https://github.com/ReneR97/skillshare-downloader)
